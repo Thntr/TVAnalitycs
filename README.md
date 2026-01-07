@@ -1,7 +1,7 @@
-# 🪐 AutoGravity Analytics
+# 🪐 TVAnalytics
 ### Decision Intelligence Platform (Educational Edition)
 
-**AutoGravity Analytics** is a next-generation dashboard designed not just to display data, but to calculate decisions. It transforms raw streaming metrics into strategic insights using a **Triple Layer Methodology** that combines raw data, pedagogical context, and technical implementation details.
+**TVAnalytics** is a next-generation dashboard designed not just to display data, but to calculate decisions. It transforms raw streaming metrics into strategic insights using a **Triple Layer Methodology** that combines raw data, pedagogical context, and technical implementation details.
 
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
@@ -53,8 +53,8 @@ We answer the critical business questions for a streaming platform:
 ### Setup
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/autogravity-analytics.git
-    cd autogravity-analytics
+    git clone https://github.com/yourusername/tvanalytics.git
+    cd tvanalytics
     ```
 2.  Install dependencies:
     ```bash
@@ -74,7 +74,7 @@ The app expects an Excel file with columns: `user_id`, `watch_time_minutes`, `ge
 
 ## 📂 Project Structure
 ```
-autogravity_analytics/
+tvanalytics/
 ├── app.py              # Main Frontend (Streamlit)
 ├── analytics.py        # Core Logic (DuckDB + ML Class)
 ├── etl.py              # Data Loading & Normalization
@@ -86,3 +86,4 @@ autogravity_analytics/
 ---
 
 *Designed for Data Scientists and Executives who want to bridge the gap between Code and Strategy.*
+
