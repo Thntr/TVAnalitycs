@@ -1,8 +1,8 @@
-# Manual de Uso - AutoGravity Analytics 2.0 🚀
+# Manual de Uso - TVAnalytics 🚀
 
-Bienvenido a la versión 2.0 de AutoGravity Analytics. Esta herramienta ha sido rediseñada para ofrecer métricas de negocio precisas y dashboards de alto impacto visual sin depender de servicios de terceros ni IA.
+Bienvenido a TVAnalytics. Esta herramienta ha sido rediseñada para ofrecer métricas de negocio precisas y dashboards de alto impacto visual sin depender de servicios de terceros ni IA.
 
-## 🌟 Novedades v2.0
+## 🌟 Novedades
 *   **Sin Dependencias de IA**: No requiere API Keys ni internet para funcionar.
 *   **Bento Grid Interface**: Nuevo diseño moderno con tarjetas de KPIs y modo oscuro.
 *   **Nuevas Métricas**: Tasa de Comprensión (AWT), Eficiencia de Formato, Mapa de Calor Regional.
@@ -50,3 +50,4 @@ El sistema detecta automáticamente columnas en inglés o español.
 
 ### 3. Filtros
 Usa la barra lateral para filtrar TODA la data por Dispositivo, Región o Segmento.
+
