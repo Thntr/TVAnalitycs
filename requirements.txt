@@ -1,0 +1,10 @@
+streamlit
+pandas
+duckdb
+plotly
+openpyxl
+scikit-learn
+lifelines
+numpy
+xlsxwriter
+
